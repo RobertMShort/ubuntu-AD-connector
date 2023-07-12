@@ -1,4 +1,4 @@
-# ubuntuADconnector
+# ubuntu-AD-connector
 Bash script to automate the tedious task of connecting Ubuntu to Active Directory
 
 Just enter your Active Directory server IP, Server name and domain name when prompted and wait to be ready to connect to Active Directory with Ubuntu!
